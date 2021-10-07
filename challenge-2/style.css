@@ -28,11 +28,11 @@ body {
   margin: 0;
   background: #23424a;
   color: white;
-  padding: 2em;
+  padding: 1em;
 }
 
 .box1 {
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
   max-width: 800px;
 }
@@ -46,10 +46,10 @@ body {
   width: 100%;
   margin: 0;
   background-color: white;
-  color: black;
-  padding: 2em;
+  color: #23424a;
+  padding: 1em;
 }
 
 .more-content {
-  max-width: 750px;
+  max-width: 800px;
 }
