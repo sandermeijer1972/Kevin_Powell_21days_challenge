@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3.75rem;
+    color: #824936;
+    margin: 1rem;
+    line-height: 1;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.25rem;
+    margin: 0;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    font-size: 1.125rem;
+    color: #222C2A;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+}
+
+.container {
+    width: 80%;
+    max-width: 1128px;
+    margin: 0 auto;
+}
+
+.sections {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+}
+
+section {
+    width: 47%;
+    font-size: 1.3rem;
+    line-height: 1.4;
+}
+
+header {
+    background-color: #F3EED9;
+    text-align: center;
+    min-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-text {
+    width: 50%;
+}
+
+.quality {
+    background-color: white;
+    padding: 4rem 0;
+    color: #222C2A;
+}
+
+.quality h2 {
+    text-align: center;
+    color: #824936;
+}
+
+.custom {
+    background-color: #222C2A;
+    padding: 4rem 0;
+    color: white;
+}
+
+.custom h2 {
+    color: #F3EED9;
+}
+
+.create {
+    background-color: #824936;
+    padding: 4rem 0;
+    color: white;
+}
+
+.create h2 {
+    color: #F3EED9;
+}
